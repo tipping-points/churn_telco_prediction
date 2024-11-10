@@ -1,0 +1,1 @@
+En este proyecto hay tres notebooks, el primero de limpieza de datos, el segundo de creación de un modelo predictivo y en el último la realización de las predicciones 
